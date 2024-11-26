@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wepted
-- 👀 I'm interested in everything but mostly interested in ham radio, biology, programming, 
-- computers, electronics, homelab, chemistry and modeling. I just like to learn new things
-- 🌱 I’m currently learning: Assembly, C, C++, Python, R
-- 📫 How to reach me: Discord Wepted#5747
+- 👀 I'm interested in everything but mostly interested in ham radio, biology, programming,
+-    electronics and homelab.
+- 🌱 I’m currently learning: Assembly, C, C++, Python, R, python
+- 📫 How to reach me: WepZone@proton.me
 - 🌐 My website: https://wepzone.net/
+- 🌐 My ham radio blog: https://sq5wep.pl
 - 🌐 My torrent tracker: http://wepzone.net:6969/announce
