@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @Wepted  <br>👀 Interests: Ham Radio, Biology, Programming, Electronics, Homelab  <br>🌱 Currently Learning: Assembly, C, C++, Python, R  <br>📫 Reach me: WepZone@proton.me  <br>🌐 Website: https://wepzone.net/ | https://sq5wep.pl</h2>
+<h2 align="left">👋 Hi, I’m @Wepted  <br>👀 Interests: Ham Radio, Biology, Programming, Electronics, Homelab  <br>🌱 Currently Learning: Assembly, C, C++, Python, R  <br>📫 Reach me: wepted@wepzone.net  <br>🌐 Website: https://wepzone.net/ | https://sq5wep.pl</h2>
 
 ###
 
